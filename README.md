@@ -1,7 +1,7 @@
 ### Oláá!!! Eu sou o Danilo Sacramento :D
 
 - 🔭 Atualmente não estou trabalhando, disponível para oportunidades!
-- 🌱 Estudando JavaScript, React, Node.js
+- 🌱 Estudando Dart e Flutter 
 - 📫 Contate-me email: danilosacramento1689@gmail.com
 - 😄 Pronouns: ele/dele
 <div>
